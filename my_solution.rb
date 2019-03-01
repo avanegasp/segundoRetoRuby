@@ -27,12 +27,3 @@ end
 
 
 # Escriban un progrma que le pregunte al usuario por su primer nombre, luego el apellido y luego que imprima una oracion que diga "Hola <nombre> <apellido> como estas"
-Collapse
-
-
-
-
-Message Input
-
-
-Message Jose Ferney Medina
